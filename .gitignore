@@ -1,0 +1,10 @@
+# Ignore absolutely everything
+*
+
+# Allow the .gitignore file itself to be tracked (recommended)
+!.gitignore
+
+# Whitelist your specific allowed file (replace with your file path)
+!Dedicated.fwl 
+!Dedicated.fwl.old 
+!Dedicated.db
