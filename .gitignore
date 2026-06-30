@@ -5,6 +5,7 @@
 !.gitignore
 
 # Whitelist your specific allowed file (replace with your file path)
-!Dedicated.fwl 
-!Dedicated.fwl.old 
-!Dedicated.db
+!AB.fwl 
+!AB.fwl.old 
+!AB.db
+!start_headless_server.bat
